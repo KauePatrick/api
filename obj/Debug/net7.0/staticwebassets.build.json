@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IORfQWY9DSlLkm7mkiKQFx9xbyOqMtYagX5D8RgGFck=",
+  "Source": "PIM.api",
+  "BasePath": "_content/PIM.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
